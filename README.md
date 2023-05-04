@@ -1,5 +1,4 @@
-#Omni-foods
-Omni-foods is a premium food delivery service designed to cater to busy individuals who value their time and health. Our website, Omnifood, offers a range of delicious and healthy meal options that are delivered straight to your doorstep. With up to 365 days/year coverage, you can trust us to take care of your meal planning and preparation needs, so you can focus on what matters most.
+#Omni-foods, is a premium food delivery service designed to cater to busy individuals who value their time and health. Our website, Omnifood, offers a range of delicious and healthy meal options that are delivered straight to your doorstep. With up to 365 days/year coverage, you can trust us to take care of your meal planning and preparation needs, so you can focus on what matters most.
 
 At Omni-foods, we understand that it can be difficult to maintain a healthy diet when you're always on-the-go. That's why we offer a variety of meal options that are designed to nourish your body and keep you feeling energized throughout the day. Our meals are made from fresh, locally-sourced ingredients and are free from preservatives, additives, and artificial flavors.
 
